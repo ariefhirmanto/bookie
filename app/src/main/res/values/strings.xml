@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bookie</string>
+    <string name="book_title">Judul Buku</string>
+    <string name="description">Deskripsi Buku</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="detail">Detail</string>
+    <string name="find_book">Find your book</string>
+</resources>

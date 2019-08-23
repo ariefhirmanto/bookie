@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Photo-->
+    <string-array name="photo">
+        <item>https://upload.wikimedia.org/wikipedia/en/8/86/TheLionWitchWardrobe%281stEd%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Pinocchio.jpg/285px-Pinocchio.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/6/6b/DaVinciCode.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/5/5c/Harry_Potter_and_the_Chamber_of_Secrets.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/a/a0/Harry_Potter_and_the_Prisoner_of_Azkaban.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/c/c7/Harry_Potter_and_the_Goblet_of_Fire.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/7/70/Harry_Potter_and_the_Order_of_the_Phoenix.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/f/f0/Harry_Potter_and_the_Half-Blood_Prince.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/a/a9/Harry_Potter_and_the_Deathly_Hallows.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg/330px-The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg</item>
+    </string-array>
+
+    <!--Book Title-->
+    <string-array name="title">
+        <item>The Lion, the Witch and the Wardrobe</item>
+        <item>The Adventures of Pinocchio</item>
+        <item>The Da Vinci Code</item>
+        <item>Harry Potter and the Chamber of Secret</item>
+        <item>Harry Potter and the Prisoner of Azkaban</item>
+        <item>Harry Potter and the Goblet of Fire</item>
+        <item>Harry Potter and the Order of Phoenix</item>
+        <item>Harry Potter and the Half-blood Prince</item>
+        <item>Harry Potter and the Deathly Hallows</item>
+        <item>The Catcher In The Rye</item>
+    </string-array>
+
+    <!--Book author-->
+    <string-array name="author">
+        <item>C.S. Lewis</item>
+        <item>Carlos Collodi</item>
+        <item>Dan Brown</item>
+        <item>J.K. Rowling</item>
+        <item>J.K. Rowling</item>
+        <item>J.K. Rowling</item>
+        <item>J.K. Rowling</item>
+        <item>J.K. Rowling</item>
+        <item>J.K. Rowling</item>
+        <item>J.D. Sallinger</item>
+    </string-array>
+
+    <!--Book description-->
+    <string-array name="description">
+        <item>
+            The Lion, the Witch and the Wardrobe is a fantasy novel for children by C. S. Lewis, published by Geoffrey Bles in 1950. It is the first published and best known of seven novels in The Chronicles of Narnia (1950–1956).
+            Among all the author\'s books, it is also the most widely held in libraries. Although it was originally the first of The Chronicles of Narnia, it is volume two in recent editions that are sequenced by the stories chronology.
+            Like the other Chronicles, it was illustrated by Pauline Baynes, and her work has been retained in many later editions.
+        </item>
+        <item>
+            The Adventures of Pinocchio, also simply known as Pinocchio, is a novel for children by Italian author Carlo Collodi, written in Pescia.
+            It is about the mischievous adventures of an animated marionette named Pinocchio and his father, a poor woodcarver named Geppetto.
+        </item>
+        <item>
+            The Da Vinci Code is a 2003 mystery thriller novel by Dan Brown. It is Brown\'s second novel to include the character Robert Langdon: the first was his 2000 novel Angels &amp; Demons.
+            The Da Vinci Code follows "symbologist" Robert Langdon and cryptologist Sophie Neveu after a murder in the Louvre Museum in Paris causes them to become involved in a battle between the Priory of Sion and Opus Dei over the possibility of Jesus Christ having been a companion to Mary Magdalene.
+        </item>
+        <item>
+            Harry Potter and the Chamber of Secrets is a fantasy novel written by British author J. K. Rowling and the second novel in the Harry Potter series.
+            The plot follows Harry\'s second year at Hogwarts School of Witchcraft and Wizardry, during which a series of messages on the walls of the school\'s corridors warn that the "Chamber of Secrets" has been opened and that the "heir of Slytherin" would kill all pupils who do not come from all-magical families.
+            These threats are found after attacks which leave residents of the school petrified. Throughout the year, Harry and his friends Ron and Hermione investigate the attacks.
+        </item>
+        <item>
+            Harry Potter and the Prisoner of Azkaban is a fantasy novel written by British author J. K. Rowling and the third in the Harry Potter series.
+            The book follows Harry Potter, a young wizard, in his third year at Hogwarts School of Witchcraft and Wizardry.
+            Along with friends Ronald Weasley and Hermione Granger, Harry investigates Sirius Black, an escaped prisoner from Azkaban who they believe is one of Lord Voldemort\'s old allies.
+        </item>
+        <item>
+            Harry Potter and the Goblet of Fire is a fantasy book written by British author J. K. Rowling and the fourth novel in the Harry Potter series.
+            It follows Harry Potter, a wizard in his fourth year at Hogwarts School of Witchcraft and Wizardry and the mystery surrounding the entry of Harry\'s name into the Triwizard Tournament, in which he is forced to compete.
+        </item>
+        <item>
+            Harry Potter and the Order of the Phoenix is a fantasy novel written by British author J. K. Rowling and the fifth novel in the Harry Potter series.
+            It follows Harry Potter\'s struggles through his fifth year at Hogwarts School of Witchcraft and Wizardry, including the surreptitious return of the antagonist Lord Voldemort, O.W.L. exams, and an obstructive Ministry of Magic.
+            The novel was published on 21 June 2003 by Bloomsbury in the United Kingdom, Scholastic in the United States, and Raincoast in Canada.
+        </item>
+        <item>
+            Harry Potter and the Half-Blood Prince is a fantasy novel written by British author J. K. Rowling and the sixth and penultimate novel in the Harry Potter series.
+            Set during protagonist Harry Potter\'s sixth year at Hogwarts, the novel explores the past of Harry\'s nemesis, Lord Voldemort, and Harry\'s preparations for the final battle against Voldemort alongside his headmaster and mentor Albus Dumbledore.
+        </item>
+        <item>
+            Harry Potter and the Deathly Hallows is a fantasy novel written by British author J. K. Rowling and the seventh and final novel of the Harry Potter series.
+            The book was released on 21 July 2007, ending the series that began in 1997 with the publication of Harry Potter and the Philosopher\'s Stone.
+            The novel chronicles the events directly following Harry Potter and the Half-Blood Prince (2005) and the final confrontation between the wizards Harry Potter and Lord Voldemort.
+        </item>
+        <item>
+            The Catcher in the Rye is a story by J. D. Salinger, partially published in serial form in 1945–1946 and as a novel in 1951.
+            It was originally intended for adults but is read by adolescents for its themes of angst and alienation, and as a critique on superficiality in society.
+            It has been translated into almost all of the world\'s major languages.
+            Around one million copies are sold each year, with total sales of more than 65 million books.
+            The novel\'s protagonist Holden Caulfield has become an icon for teenage rebellion.
+            The novel also deals with complex issues of innocence, identity, belonging, loss, and connection.
+        </item>
+    </string-array>
+
+    <string-array name="url">
+        <item>https://www.amazon.com/s?k=the+lion+the+witch+and+the+wardrobe&amp;i=stripbooks-intl-ship&amp;crid=2QVWRBX2IA3BJ&amp;sprefix=the+lion+people%2Cstripbooks-intl-ship%2C579&amp;ref=nb_sb_ss_i_2_8</item>
+        <item>https://www.amazon.com/s?k=the+adventures+of+pinocchio&amp;i=stripbooks-intl-ship&amp;crid=2JXD0L76ZJL0T&amp;sprefix=the+adventures+of+pin%2Cstripbooks-intl-ship%2C464&amp;ref=nb_sb_ss_i_1_21</item>
+        <item>https://www.amazon.com/s?k=the+da+vinci+code&amp;i=stripbooks-intl-ship&amp;crid=3RBUWIULU33BS&amp;sprefix=the+da+vinci+code+dan+brown%2Cstripbooks-intl-ship%2C518&amp;ref=nb_sb_ss_i_2_13</item>
+        <item>https://www.amazon.com/s?k=harry+potter+chamber+of+secrets&amp;i=stripbooks-intl-ship&amp;crid=36I1YLTBW1I0M&amp;sprefix=harry+potter+ch%2Cstripbooks-intl-ship%2C500&amp;ref=nb_sb_ss_i_1_15</item>
+        <item>https://www.amazon.com/s?k=harry+potter+prisoner+of+azkaban&amp;i=stripbooks-intl-ship&amp;crid=37CXS5P682KKW&amp;sprefix=harry+potter+prisoner+of+a%2Cstripbooks-intl-ship%2C452&amp;ref=nb_sb_ss_i_1_26</item>
+        <item>https://www.amazon.com/s?k=harry+potter+goblet+of+fire&amp;i=stripbooks-intl-ship&amp;crid=1XI027DLW8YP7&amp;sprefix=harry+potter+goblet%2Cstripbooks-intl-ship%2C449&amp;ref=nb_sb_ss_i_1_19</item>
+        <item>https://www.amazon.com/s?k=harry+potter+order+of+the+phoenix&amp;i=stripbooks-intl-ship&amp;crid=3J7R4IZT2ZE4T&amp;sprefix=harry+potter+order+%2Cstripbooks-intl-ship%2C102&amp;ref=nb_sb_noss_2</item>
+        <item>https://www.amazon.com/s?k=harry+potter+half+blood+prince&amp;i=stripbooks-intl-ship&amp;crid=28431QB1P6EZU&amp;sprefix=harry+potter+half%2Cstripbooks-intl-ship%2C454&amp;ref=nb_sb_ss_i_1_17</item>
+        <item>https://www.amazon.com/s?k=harry+potter+deathly+hallows&amp;i=stripbooks-intl-ship&amp;crid=Z5DG47ZSSHH4&amp;sprefix=harry+potter+dea%2Cstripbooks-intl-ship%2C482&amp;ref=nb_sb_ss_i_1_16</item>
+        <item>https://www.amazon.com/s?k=the+catcher+in+the+rye&amp;i=stripbooks-intl-ship&amp;crid=28VZKO0UUG9MJ&amp;sprefix=the+cat%2Cstripbooks-intl-ship%2C-1&amp;ref=nb_sb_noss_2</item>
+    </string-array>
+
+</resources>
